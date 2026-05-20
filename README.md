@@ -4,10 +4,10 @@
 A real-time, interactive language translation application built with **Python**, **Streamlit**, and the **Google Translate API**. This tool allows users to enter text and select source and target languages for instant translation.
 
 ## 🚀 Features
-* [cite_start]**Multi-Language Support:** Access 100+ languages including English, Urdu, Spanish, and French.
-* [cite_start]**Real-time Processing:** Utilizes the Google Translate API for accurate and fast responses[cite: 23, 24].
-* [cite_start]**Modern UI:** A clean, user-friendly interface with dark mode support[cite: 22, 25].
-* **Legacy Support:** Optimized for Python 3.14 with monkey-patching for legacy modules.
+**Multi-Language Support:** Access 100+ languages including English, Urdu, Spanish, and French.
+**Real-time Processing:** Utilizes the Google Translate API for accurate and fast responses.
+**Modern UI:** A clean, user-friendly interface with dark mode support.
+**Legacy Support:** Optimized for Python 3.14 with monkey-patching for legacy modules.
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.14
